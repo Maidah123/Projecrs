@@ -1,0 +1,17 @@
+{
+    
+    "firstName": "test",
+    "lastName": "string",
+    "country": "pakistan",
+    "courses": [
+        "string"
+    ],
+    "admissionDate": "123",
+    "address": "test",
+    "city": "karachi",
+    "mobile": "string",
+    "description": "string",
+    "programme": "string",
+    "age": "78",
+    "email": "maidahq.sol"
+}
